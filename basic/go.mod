@@ -1,4 +1,4 @@
-module github.com/DAlba-sudo/PersonalSiteLib
+module github.com/DAlba-sudo/PersonalSiteLib/basic
 
 go 1.22.1
 
