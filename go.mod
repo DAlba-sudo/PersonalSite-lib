@@ -1,4 +1,4 @@
-module github.com/DAlba-sudo/PersonalSite
+module github.com/DAlba-sudo/PersonalSite-lib
 
 go 1.18
 
