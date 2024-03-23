@@ -1,6 +1,6 @@
 module github.com/DAlba-sudo/PersonalSite-lib
 
-go 1.18
+go 1.22.1
 
 require gorm.io/gorm v1.25.8
 
